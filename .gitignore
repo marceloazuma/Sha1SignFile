@@ -1,0 +1,8 @@
+.vs
+bin
+Dotfuscated
+obj
+Publish
+*.pfx
+*.snk
+*.user
