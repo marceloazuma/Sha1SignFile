@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Sha1SignFile")]
 [assembly: AssemblyDescription("Creates SHA1 signature with SHA256 certificate")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("etc.software")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Sha1SignFile")]
-[assembly: AssemblyCopyright("etc.software ©  2018")]
+[assembly: AssemblyCopyright("Marcelo Hideaki Azuma © 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

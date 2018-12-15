@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ClickOnce Lab")]
 [assembly: AssemblyDescription("ClickOnce lab with custom installer and Dotfuscator in .Net Framework 2.0")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("etc.software")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ClickOnce Lab")]
-[assembly: AssemblyCopyright("etc.software ©  2018")]
+[assembly: AssemblyCopyright("Marcelo Hideaki Azuma © 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
